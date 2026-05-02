@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.ruff_cache/
+latest_videos.json
+last_lol_game.txt
